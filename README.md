@@ -29,14 +29,8 @@ This project is best developed using IntelliJ IDEA. It provides excellent suppor
 Installation
 
 Clone the repository:
-git clone <repository-url>
-cd <project-directory>
-
-Build the project using Maven:
-mvn clean install
-
-Run the application:
-mvn spring-boot:run
+git clone https://github.com/Gokul30082004/Rule-Engine-with-AST.git
+cd Rule-Engine-with-AST
 
 Ensure MongoDB is running and connected.
 
